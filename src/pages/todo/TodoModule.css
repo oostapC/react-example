@@ -1,0 +1,17 @@
+#todo-module{
+    padding: 35px 20px;
+    height: calc(100vh - 80px);
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 450px;
+    margin-top: 35px;
+    background-color: #252525;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+

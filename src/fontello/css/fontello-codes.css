@@ -1,0 +1,5 @@
+
+.icon-active:before { content: '\e800'; } /* '' */
+.icon-done:before { content: '\e801'; } /* '' */
+.icon-clipboard:before { content: '\e802'; } /* '' */
+.icon-delete:before { content: '\e805'; } /* '' */

@@ -1,0 +1,10 @@
+.empty{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 300;
+    color: rgba(207, 125, 255, 0.9);
+}
